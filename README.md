@@ -1,3 +1,3 @@
-Visitez mon site web sur ce lien [IDFGlass.fr](https://samiagouram.github.io/Projet-React-IdfGlass/).
+Visitez mon site web sur ce lien [idf-glass.fr](https://samiagouram.github.io/Projet-React-IdfGlass/).
 
 
