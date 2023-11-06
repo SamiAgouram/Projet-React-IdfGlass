@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Projet-React-IdfGlass/static/css/main.3f2d58c2.css",
-    "main.js": "/Projet-React-IdfGlass/static/js/main.387479e8.js",
+    "main.css": "/Projet-React-IdfGlass/static/css/main.f0734524.css",
+    "main.js": "/Projet-React-IdfGlass/static/js/main.2d7f3a34.js",
     "static/js/787.f3236028.chunk.js": "/Projet-React-IdfGlass/static/js/787.f3236028.chunk.js",
+    "static/media/slide1.jpg": "/Projet-React-IdfGlass/static/media/slide1.4558185a6355cf863aad.jpg",
     "static/media/logo-idfglass.png": "/Projet-React-IdfGlass/static/media/logo-idfglass.d984d469c5c9d26a4238.png",
     "index.html": "/Projet-React-IdfGlass/index.html",
-    "main.3f2d58c2.css.map": "/Projet-React-IdfGlass/static/css/main.3f2d58c2.css.map",
-    "main.387479e8.js.map": "/Projet-React-IdfGlass/static/js/main.387479e8.js.map",
+    "main.f0734524.css.map": "/Projet-React-IdfGlass/static/css/main.f0734524.css.map",
+    "main.2d7f3a34.js.map": "/Projet-React-IdfGlass/static/js/main.2d7f3a34.js.map",
     "787.f3236028.chunk.js.map": "/Projet-React-IdfGlass/static/js/787.f3236028.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f2d58c2.css",
-    "static/js/main.387479e8.js"
+    "static/css/main.f0734524.css",
+    "static/js/main.2d7f3a34.js"
   ]
 }
